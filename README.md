@@ -4,7 +4,7 @@
 
 <p>I'm a in-training Web Developer and programmer from the small city of Juazeiro do Norte-CE, Brazil. Whenever I'm not writing code I'm reading novels, playing video games or working out.</p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
