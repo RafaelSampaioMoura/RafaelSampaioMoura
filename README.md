@@ -4,7 +4,9 @@
 
 <p>I'm a in-training Web Developer and programmer from the small city of Juazeiro do Norte-CE, Brazil. Whenever I'm not writing code I'm reading novels, playing video games or working out.</p>
 
-<p>While I have experience with both Front and Back-End development, I focus my efforts on the latter</p>
+<p>While I have experience with both Front and Back-End development, I focus my efforts on the latter.</p>
+
+<p>You can contact me at rafaelsm123@outlook.com</p>
 
 - 🌱 I’m currently learning **Node.js**
 
