@@ -2,13 +2,15 @@
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
-<p>I'm a in-training Web Developer and programmer from the small city of Juazeiro do Norte-CE, Brazil. Whenever I'm not writing code I'm reading novels, playing video games or working out.</p>
+<p>I'm a junior Web Developer and programmer from the small city of Juazeiro do Norte-CE, Brazil. Whenever I'm not writing code I'm reading novels, playing video games or working out.</p>
 
-<p>While I have experience with both Front and Back-End development, I focus my efforts on the latter.</p>
+<p> I studied at a local law school for 4 years before answering my true calling of programming and software development.</p>
+
+<p>I'm proeficient in both Front (React.js) and Backend (Node.js, Express, MySQL) development, with a focus on the latter.</p>
 
 <p>You can contact me at rafaelsm123@outlook.com</p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Vue.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
