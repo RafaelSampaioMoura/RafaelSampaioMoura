@@ -20,6 +20,9 @@
   <a href="https://wa.me/558888243188" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/90346567/228115905-503f5294-8183-4596-8d57-77c49b36434c.png" alt="https://wa.me/558888243188" height="40" width="40">
   </a>
+  <a href="discordapp.com/users/979053270339293224" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/90346567/228116172-572fdf5e-b977-49e9-af5e-378919984c1b.png" alt="discordapp.com/users/979053270339293224" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
