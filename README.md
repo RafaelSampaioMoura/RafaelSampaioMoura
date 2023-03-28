@@ -1,4 +1,4 @@
-<img src="https://tenor.com/bGTe9.gif" alt="lain-on-pc"/>
+<div class="tenor-gif-embed" data-postid="22576121" data-share-method="host" data-aspect-ratio="1.46119" data-width="100%"><a href="https://tenor.com/view/lain-iwakura-lain-serial-experiments-lain-the-wired-computer-gif-22576121">Lain Iwakura Lain GIF</a>from <a href="https://tenor.com/search/lain+iwakura-gifs">Lain Iwakura GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
