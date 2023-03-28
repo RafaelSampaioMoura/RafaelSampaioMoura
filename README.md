@@ -1,4 +1,4 @@
-<img align="top-left" src="https://gfycat.com/pointedfrequentimperatorangel" alt="eddie-typing-gif"/>
+<iframe src='https://gfycat.com/ifr/PointedFrequentImperatorangel' frameborder='0' scrolling='no' allowfullscreen width='640' height='492'></iframe><p> <a href="https://gfycat.com/pointedfrequentimperatorangel">via Gfycat</a></p>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
