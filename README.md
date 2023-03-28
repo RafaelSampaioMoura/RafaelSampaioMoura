@@ -1,4 +1,4 @@
-<img align="right" src="https://media.tenor.com/-DHKgs-Gp20AAAAC/lain-iwakura-lain.gif" alt="lain-on-puter"/>
+<img align="right" src="https://media.tenor.com/-DHKgs-Gp20AAAAC/lain-iwakura-lain.gif" alt="lain-on-puter" height="150" width="150"/>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
@@ -23,6 +23,9 @@
   <a href="https://discordapp.com/users/979053270339293224" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/90346567/228116172-572fdf5e-b977-49e9-af5e-378919984c1b.png" alt="discordapp.com/users/979053270339293224" height="40" width="40" />
   </a>
+  <a href="mailto:rafaelsm123@outlook.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/90346567/228117514-b57608d2-fe4e-4fd2-9650-79770d266724.png" alt="mailto:rafaelsm123@outlook.com" height="40" width="40" />
+  <a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
