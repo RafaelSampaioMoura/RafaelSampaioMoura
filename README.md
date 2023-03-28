@@ -18,7 +18,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-sampaio-moura/" height="30" width="40" />
     </a>
   <a href="https://wa.me/558888243188" target="blank">
-    <img src="[https://www.apaulista.org.br/wp-content/uploads/2020/03/icon-whatsapp-png-20.jpg](https://icons8.com/icon/16713/whatsapp)" alt="https://wa.me/558888243188" height="30" width="40">
+    <img src="https://www.apaulista.org.br/wp-content/uploads/2020/03/icon-whatsapp-png-20.jpg" alt="https://wa.me/558888243188" height="30" width="40">
   </a>
 </p>
 
