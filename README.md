@@ -1,4 +1,4 @@
-<iframe src='https://gfycat.com/ifr/PointedFrequentImperatorangel' frameborder='0' scrolling='no' allowfullscreen width='640' height='492'></iframe><p> <a href="https://gfycat.com/pointedfrequentimperatorangel">via Gfycat</a></p>
+<img src="https://tenor.com/bGTe9.gif" alt="lain-on-pc"/>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
