@@ -18,7 +18,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-sampaio-moura/" height="30" width="40" />
     </a>
   <a href="https://wa.me/558888243188" target="blank">
-    <img src="https://user-images.githubusercontent.com/90346567/228115905-503f5294-8183-4596-8d57-77c49b36434c.png" alt="https://wa.me/558888243188" height="30" width="40">
+    <img align="center" src="https://user-images.githubusercontent.com/90346567/228115905-503f5294-8183-4596-8d57-77c49b36434c.png" alt="https://wa.me/558888243188" height="40" width="40">
   </a>
 </p>
 
