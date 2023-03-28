@@ -1,4 +1,11 @@
+<h1>Salutations!</h1>
+
 <img align="right" src="https://media.tenor.com/-DHKgs-Gp20AAAAC/lain-iwakura-lain.gif" alt="lain-on-puter" height="300" width="400"/>
+
+## English
+<details>
+  
+<summary>Click here to read my bio in English!</summary>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
@@ -12,7 +19,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-<h3 align="left">Connect with me:</h3>
+</details>
+
+<h3 align="left">Contact:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/rafael-sampaio-moura/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-sampaio-moura/" height="30" width="40" />
