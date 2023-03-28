@@ -1,4 +1,4 @@
-<img align="top" src="https://media.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" alt="obi-wan-hello-there-gif"/>
+<img align="top-left" src="https://gfycat.com/pointedfrequentimperatorangel" alt="eddie-typing-gif"/>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
