@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/-DHKgs-Gp20AAAAC/lain-iwakura-lain.gif" alt="lain-on-puter"/>
+<img align="right" src="https://media.tenor.com/-DHKgs-Gp20AAAAC/lain-iwakura-lain.gif" alt="lain-on-puter"/>
 
 <p>Name's Rafael, pleasure to meet you!</p>
 
