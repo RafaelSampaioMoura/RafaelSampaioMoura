@@ -21,6 +21,26 @@
 
 </details>
 
+## Português
+
+<details>
+  
+<summary>Clique aqui para ler meu perfil em Portugês!</summary>
+
+<p>Prazer, meu nome é Rafael!</p>
+
+<p>Eu sou um desenvolvedor júnior Full Stack da pequena cidade de Juazeiro do Norte-CE, Brasil. Quando eu não estou codando, você pode me encontrar lendo romances, jogando video games e me exercitando.</p>
+
+<p> Antes de seguir na carreira de desenvolvimento de software, eu estudei 4 anos em Direito. Meu objetivo atual é me aperfeiçoar o máximo que eu posso na minha linguagem de preferência, JavaScript.</p>
+
+<p>Eu sou proeficiente tanto em Front (via React e Vue.js) e Back (via Node.js, Express e MySQL), com foco principal em Back.</p>
+
+<p>Você pode entrar em contato comigo pelo meu email: rafaelsm123@outlook.com</p>
+
+- 🌱 No momento estudando **Java**
+
+</details>
+
 ## Contact:
   <p align="left">
     <a href="https://www.linkedin.com/in/rafael-sampaio-moura/" target="blank">
